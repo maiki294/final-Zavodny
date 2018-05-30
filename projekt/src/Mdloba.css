@@ -1,0 +1,69 @@
+.Sok-title {
+    font-size: 3em;
+    color: black;
+    font-family: "Century Schoolbook";
+    background: red;
+    position: relative;
+    bottom: 50px;
+    text-align: center;
+}
+
+.Sok-sipka {
+    position: relative;
+    left: -600px;
+    top: 60px;
+}
+
+.Sok-text {
+    color: black;
+    font-family: "Century Schoolbook";
+    text-align: left;
+    top: 0px;
+}
+
+.Sok-5T {
+    color: black;
+    font-size: x-large;
+    font-family: "Century Schoolbook";
+    text-align: center;
+    top: -10px;
+}
+
+.Sok-T5 {
+    color: black;
+    font-size: x-large;
+    font-family: "Century Schoolbook";
+    position: relative;
+    top: 0px;
+    left: 50px;
+}
+
+.Sok-obrazok6 {
+    position: relative;
+    right: 150px;
+    top: -280px
+}
+
+.Sok-obrazok5 {
+    position: relative;
+    right: 300px;
+    bottom: 250px;
+}
+
+h2 {
+    margin: 0 auto;
+    text-align: center;
+    position: relative;
+    top: -10px;
+    font-family: "Century Schoolbook";
+    color: black;
+}
+
+h3 {
+    margin: 0 auto;
+    text-align: center;
+    position: relative;
+    top: 40px;
+    font-family: "Century Schoolbook";
+    color: black;
+}

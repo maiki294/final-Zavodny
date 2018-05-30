@@ -1,0 +1,34 @@
+.Zapadnutyjazyk-title {
+    font-size: 3em;
+    color: black;
+    font-family: "Century Schoolbook";
+    background: red;
+    position: relative;
+    bottom: 50px;
+    text-align: center;
+}
+
+.Zapadnutyjazyk-sipka {
+    position: relative;
+    left: -600px;
+    top: 60px;
+}
+
+.Zapadnutyjazyk-text {
+    color: black;
+    font-family: "Century Schoolbook";
+    text-align: left;
+    top: 0px;
+}
+
+.Zapadnutyjazyk-obrazok7 {
+    position: relative;
+    left: 300px;
+    top: -20px;
+}
+
+.Zapadnutyjazyk-obrazok8{
+    position: relative;
+    right: 250px;
+    top: 0px;
+}

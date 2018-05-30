@@ -1,0 +1,40 @@
+.Popalenie-title {
+    font-size: 3em;
+    color: black;
+    font-family: "Century Schoolbook";
+    background: red;
+    position: relative;
+    bottom: 50px;
+    text-align: center;
+}
+
+.Popalenie-sipka {
+    position: relative;
+    left: -600px;
+    top: 60px;
+}
+
+.Popalenie-text {
+    color: black;
+    font-family: "Century Schoolbook";
+    text-align: left;
+    top: 0px;
+}
+
+.Popalenie-popaleniny {
+    position: relative;
+    left: 50px;
+    top: 20px;
+}
+
+.Popalenie-popalenina2 {
+    position: relative;
+    right: 525px;
+    top: 20px;
+}
+
+.Popalenie-popalenina3 {
+    position: relative;
+    right: -300px;
+    top: 20px;
+}

@@ -1,0 +1,100 @@
+.App {
+  text-align: center;
+  position: relative;
+}
+
+.App-title {
+  font-size: 3em;
+  color: Black;
+  font-family: "Century Schoolbook";
+  position: relative;
+  top: 10px;
+}
+
+.App-taby {
+    overflow: hidden;
+    background-color: red;
+    border: none;
+    outline: none;
+    padding: 12px 12px;
+    transition: 0.3s;
+    font-family: "Century Schoolbook";
+    font-size: x-large;
+    position: relative;
+    top: 25px;
+}
+
+.App-vyber {
+  position: relative;
+  top: 80px;
+}
+
+.App-cislo {
+  position: relative;
+  top: 100px;
+}
+
+.App-obrazok1 {
+  position: relative;
+  bottom: -75px;
+}
+
+
+.App-kriz {
+  position: relative;
+}
+
+.App-ja1 {
+  position: relative;
+  left: 250px;
+  bottom: 0px;
+}
+
+.App-gif {
+  position: relative;
+  left: -125px;
+  bottom: -20px;
+}
+
+.App-ja2 {
+  position: relative;
+  right: 250px;
+  bottom: 200px;
+}
+
+.App-kontakt {
+    position: relative;
+    bottom: 10px;
+}
+
+.App-button {
+    font-size: x-large;
+}
+
+.App-mobil {
+    position: relative;
+    bottom: 10px;
+}
+
+.App-blog {
+    position: relative;
+    top: 20px;
+}
+
+h2 {
+    margin: 0 auto;
+    text-align: center;
+    position: relative;
+    top: -35px;
+    font-family: "Century Schoolbook";
+    color: black;
+}
+
+h3 {
+    margin: 0 auto;
+    text-align: center;
+    position: relative;
+    top: 40px;
+    font-family: "Century Schoolbook";
+    color: black;
+}

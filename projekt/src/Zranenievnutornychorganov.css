@@ -1,0 +1,34 @@
+.Zranenievnutornychorganov-title {
+    font-size: 3em;
+    color: black;
+    font-family: "Century Schoolbook";
+    background: red;
+    position: relative;
+    bottom: 50px;
+    text-align: center;
+}
+
+.Zranenievnutornychorganov-sipka {
+    position: relative;
+    left: -600px;
+    top: 60px;
+}
+
+.Zranenievnutornychorganov-text {
+    color: black;
+    font-family: "Century Schoolbook";
+    text-align: left;
+    top: 0px;
+}
+
+.Zranenievnutornychorganov-krvacanie {
+    position: relative;
+    right: 300px;
+    top: 20px;
+}
+
+.Zranenievnutornychorganov-noznice {
+    position: relative;
+    left: 150px;
+    top: 20px;
+}

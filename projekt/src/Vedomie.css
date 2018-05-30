@@ -1,0 +1,103 @@
+.Vedomie-title {
+    font-size: 3em;
+    color: Black;
+    font-family: "Century Schoolbook";
+    position: relative;
+    top: 10px;
+}
+
+.Vedomie-pricina {
+    position: relative;
+    left: 150px;
+    top: -50px;
+}
+
+.Vedomie-spat {
+    position: relative;
+    left: 50px;
+    top: -40px;
+}
+
+.Vedomie-taby {
+    overflow: hidden;
+    background-color: red;
+    border: none;
+    outline: none;
+    padding: 12px 12px;
+    transition: 0.3s;
+    font-family: "Century Schoolbook";
+    font-size: x-large;
+    position: relative;
+    top: 5px;
+}
+
+.Vedomie-vyber {
+    position: relative;
+    top: 80px;
+}
+
+.Vedomie-obrazok3 {
+    position: relative;
+    left: 30px;
+    bottom: 280px;
+}
+
+.Vedomie-obrazok4 {
+    position: relative;
+    left: 40px;
+    bottom: 180px;
+}
+
+.Vedomie-otvorenazlomenina {
+    position: relative;
+    left: 50px;
+    top: 50px;
+}
+
+.Vedomie-popalenie {
+    position: relative;
+    left: 50px;
+    top: 50px;
+}
+
+.Vedomie-duseniesa {
+    position: relative;
+    left: 50px;
+    top: 50px;
+}
+
+.Vedomie-zranenie {
+    position: relative;
+    left: 50px;
+    top: 50px;
+}
+
+.Vedomie-zlomenina {
+    position: relative;
+    left: 50px;
+    top: 50px;
+}
+
+.Vedomie-sok {
+    position: relative;
+    left: 50px;
+    top: 50px;
+}
+
+h2 {
+    margin: 0 auto;
+    text-align: center;
+    position: relative;
+    top: -10px;
+    font-family: "Century Schoolbook";
+    color: black;
+}
+
+h3 {
+    margin: 0 auto;
+    text-align: center;
+    position: relative;
+    top: 40px;
+    font-family: "Century Schoolbook";
+    color: black;
+}

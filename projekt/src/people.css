@@ -1,0 +1,22 @@
+.ludia {
+    color: black;
+    font-size: 32px;
+    text-align: center;
+    font-family: Comic Sans MS, cursive, sans-serif;
+    position: relative;
+    top: -20px;
+}
+
+h1 {
+    margin: 0 auto;
+    text-align: center;
+    position: relative;
+    top: -35px;
+    font-family: Constantia;
+}
+
+.people-sipka {
+    position: relative;
+    left: 50px;
+    top: 10px;
+}

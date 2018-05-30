@@ -1,0 +1,64 @@
+blog.css
+.btn {
+    background-color: red;
+    border: none;
+    color: black;
+    padding: 16px 32px;
+    text-align: center;
+    font-size: 8px;
+    margin: 2px 1px;
+    transition: 0.3s;
+    font-family: "Century Schoolbook";
+}
+
+.btn:hover {
+    background-color: #ffcccc;
+    color: black;
+    font-family: "Century Schoolbook";
+    font-size: x-large;
+}
+html {
+    font-family: sans-serif;
+}
+
+form {
+    width: 600px;
+    margin: 0 auto;
+}
+
+div {
+    margin-bottom: 0px;
+}
+
+fieldset {
+    background: #ffcccc;
+    border: 2px solid red;
+}
+label {
+    width: 600px;
+    margin: 0 auto;
+}
+
+
+legend {
+    padding: 0px;
+    background: Red;
+    color: #ffcccc;
+}
+
+h1 {
+    width: 600px;
+    margin: 0 auto;
+}
+
+.nadpis {
+    position: relative;
+    top:20px;
+    font-size: large;
+}
+
+.blog-sipka {
+    position: relative;
+    left: -400px;
+    top: 30px;
+}

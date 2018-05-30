@@ -1,0 +1,41 @@
+.Zastavasrdcovejcinnosti-title {
+    font-size: 3em;
+    color: black;
+    font-family: "Century Schoolbook";
+    background: red;
+    position: relative;
+    bottom: 50px;
+    text-align: center;
+}
+
+.Zastavasrdcovejcinnosti-sipka {
+    position: relative;
+    left: -600px;
+    top: 60px;
+}
+
+.Zastavasrdcovejcinnosti-text {
+    color: black;
+    font-family: "Century Schoolbook";
+    text-align: left;
+    top: 0px;
+}
+
+.Zastavasrdcovejcinnosti-obrazok7 {
+    position: relative;
+    left: 300px;
+    top: -20px;
+}
+
+.Zastavasrdcovejcinnosti-obrazok8{
+    position: relative;
+    right: 250px;
+    top: 0px;
+}
+
+.Zastavasrdcovejcinnosti-video {
+    font-size: 3em;
+    position: relative;
+    top: 120px;
+    left: 225px;
+}

@@ -1,0 +1,106 @@
+.Bezvedomie-title {
+    font-size: 3em;
+    color: Black;
+    font-family: "Century Schoolbook";
+    position: relative;
+    top: 10px;
+}
+
+.Bezvedomie-pricina {
+    position: relative;
+    left: 150px;
+    top: -50px;
+}
+
+.Bezvedomie-sipka {
+    position: relative;
+    left: 50px;
+    top: -40px;
+}
+
+.Bezvedomie-taby {
+    overflow: hidden;
+    background-color: red;
+    border: none;
+    outline: none;
+    padding: 12px 12px;
+    transition: 0.3s;
+    font-family: "Century Schoolbook";
+    font-size: x-large;
+    position: relative;
+    top: 5px;
+}
+
+.Bezvedomie-vyber {
+    position: relative;
+    top: 80px;
+}
+
+.Bezvedomie-silnekrvacanie {
+    position: relative;
+    left: 50px;
+    top: 50px;
+}
+
+.Bezvedomie-zranenievnutornychorganov {
+    position: relative;
+    left: 50px;
+    top: 50px;
+}
+
+.Bezvedomie-zlomenina {
+    position: relative;
+    left: 50px;
+    top: 50px;
+}
+
+.Bezvedomie-zapadnutyjazyk {
+    position: relative;
+    left: 50px;
+    top: 50px;
+}
+
+.Bezvedomie-zastavasrdcovejcinnosti {
+    position: relative;
+    left: 50px;
+    top: 50px;
+}
+
+.Bezvedomie-obrazok3 {
+    position: relative;
+    left: 30px;
+    bottom: 250px;
+}
+
+.Bezvedomie-obrazok4 {
+    position: relative;
+    left: 40px;
+    bottom: 120px;
+}
+
+.Bezvedomie-otazka {
+    margin: 0 auto;
+    text-align: center;
+    position: relative;
+    top: 15px;
+    font-family: "Century Schoolbook";
+    color: black;
+}
+
+h2 {
+    margin: 0 auto;
+    text-align: center;
+    position: relative;
+    top: -10px;
+    font-family: "Century Schoolbook";
+    color: black;
+}
+
+h3 {
+    margin: 0 auto;
+    text-align: center;
+    position: relative;
+    top: 40px;
+    font-family: "Century Schoolbook";
+    color: black;
+}

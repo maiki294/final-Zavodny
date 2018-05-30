@@ -1,0 +1,34 @@
+.Silnekrvacanie-title {
+    font-size: 3em;
+    color: black;
+    font-family: "Century Schoolbook";
+    background: red;
+    position: relative;
+    bottom: 50px;
+    text-align: center;
+}
+
+.Silnekrvacanie-sipka {
+    position: relative;
+    left: -600px;
+    top: 60px;
+}
+
+.Silnekrvacanie-text {
+    color: black;
+    font-family: "Century Schoolbook";
+    text-align: left;
+    top: 0px;
+}
+
+
+.Silnekrvacanie-krvacanie {
+    position: relative;
+    right: 400px;
+    top: 0px;
+}
+
+.Silnekrvacanie-video {
+    font-size: 2em;
+}
+
